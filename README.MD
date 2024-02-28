@@ -26,4 +26,4 @@ streamlit run dashboard.py
 
 Atau dapat mengakses melalui link berikut [Data Analytics](https://dicoding-tjan2lwsgz3l97a447szqk.streamlit.app/)
 
-<img src="./01_Dahsboard/dashboard.png" alt="Streamlit logo"></img>
+<img src="./01_Dashboard/dashboard.png" alt="Streamlit logo"></img>
