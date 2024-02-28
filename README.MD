@@ -15,7 +15,7 @@ Proyek analisis data pada E-commerce Public Dataset. Bertujuan memudahkan bisnis
 ```shell
 conda create --subdicoding myenv python=3.7
 conda activate subdicoding
-pip install -r submission_dicoding/requirement.txt
+pip install -r Project-Data-Analyst/requirement.txt
 ```
 
 ## Run Streamlit
@@ -24,7 +24,6 @@ pip install -r submission_dicoding/requirement.txt
 streamlit run dashboard.py
 ```
 
-Atau dapat mengakses melalui link berikut [Data Analytics]
-(https://dicoding-tjan2lwsgz3l97a447szqk.streamlit.app/)
+Atau dapat mengakses melalui link berikut [Data Analytics](https://dicoding-tjan2lwsgz3l97a447szqk.streamlit.app/)
 
 <img src="./Project-Data-Analyst/dashboard.png" alt="Streamlit logo"></img>
