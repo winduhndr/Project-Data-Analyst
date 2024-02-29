@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy.stats import chi2_contingency
 from babel.numbers import format_currency
+st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Build a method
 def create_monthly_info(df, start_date, end_date):
