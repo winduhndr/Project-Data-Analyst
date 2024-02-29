@@ -49,7 +49,7 @@ st.set_page_config(
 )
 
 # Load Dataset
-all_df = pd.read_csv("all_data.csv")
+all_df = pd.read_csv("./01_Dashboard/all_data.csv")
 all_df['order_monthly'] = pd.to_datetime(all_df['order_monthly'], format='%Y-%m')
 
 # Sidebar
