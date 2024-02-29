@@ -24,6 +24,6 @@ pip install -r Project-Data-Analyst/requirements.txt
 streamlit run dashboard.py
 ```
 
-Atau dapat mengakses melalui link berikut [Data Analytics](https://project-data-analyst-icxn5itmxbvhaia3es376n.streamlit.app/)
+Atau dapat mengakses melalui link berikut [Data Analytics](https://project-data-analyst-7bpashgj8h6otsfm6p5vvj.streamlit.app/)
 
 <img src="./01_Dashboard/dashboard.png" alt="Streamlit logo"></img>
