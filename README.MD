@@ -13,9 +13,9 @@ Proyek analisis data pada E-commerce Public Dataset. Bertujuan memudahkan bisnis
 ## Setup Environment
 
 ```shell
-conda create --subdicoding myenv python=3.7
+conda create --subdicoding myenv python=3.9
 conda activate subdicoding
-pip install -r Project-Data-Analyst/requirement.txt
+pip install -r Project-Data-Analyst/requirements.txt
 ```
 
 ## Run Streamlit
