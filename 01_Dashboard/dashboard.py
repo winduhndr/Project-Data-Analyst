@@ -57,7 +57,7 @@ with st.sidebar:
     # Title
     st.title("Windu Handaru")
     # Logo Image
-    st.image("stp.png")
+    st.image("./01_Dashboard/stp.png")
     # Date Range
     min_date = all_df['order_monthly'].min()
     max_date = all_df['order_monthly'].max()
